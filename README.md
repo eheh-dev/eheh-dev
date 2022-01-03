@@ -1,5 +1,5 @@
 ### 🖐 Welcome / Witaj
-# 📚 On my projects repository / W repozytorium moich projektów
+# 📚 On Official eheh-pl developer account / Oficjalnym koncie deweloperskim eheh-pl
 
 <!--
 **eheh-pl/eheh-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
